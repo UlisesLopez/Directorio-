@@ -1,0 +1,21 @@
+D:\ \memoriaUSB\app2\Directorio\Directorio\bin\Debug\Directorio.exe
+D:\ \memoriaUSB\app2\Directorio\Directorio\bin\Debug\Directorio.pdb
+D:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.Form1.resources
+D:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.Properties.Resources.resources
+D:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.csproj.GenerateResource.Cache
+D:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.exe
+D:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.pdb
+H:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.exe
+H:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.pdb
+H:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.Form1.resources
+H:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.Properties.Resources.resources
+H:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.csproj.GenerateResource.Cache
+H:\ \memoriaUSB\app2\Directorio\Directorio\obj\x86\Debug\Directorio.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Downloads\Directorio\Directorio\obj\x86\Debug\Directorio.exe
+C:\Users\Sergio\Downloads\Directorio\Directorio\bin\Debug\Directorio.exe
+C:\Users\Sergio\Downloads\Directorio\Directorio\bin\Debug\Directorio.pdb
+C:\Users\Sergio\Downloads\Directorio\Directorio\obj\x86\Debug\Directorio.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Downloads\Directorio\Directorio\obj\x86\Debug\Directorio.Form1.resources
+C:\Users\Sergio\Downloads\Directorio\Directorio\obj\x86\Debug\Directorio.Properties.Resources.resources
+C:\Users\Sergio\Downloads\Directorio\Directorio\obj\x86\Debug\Directorio.csproj.GenerateResource.Cache
+C:\Users\Sergio\Downloads\Directorio\Directorio\obj\x86\Debug\Directorio.pdb
